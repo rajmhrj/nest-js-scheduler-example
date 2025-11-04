@@ -4,7 +4,7 @@
   "description": "NestJS BullMQ Test Scheduler Application",
   "author": "",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "WTFPL",
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",

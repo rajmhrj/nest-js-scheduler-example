@@ -33,7 +33,7 @@ export class SchedulerConfigService {
   }
 
   getTestCronTab(): string {
-    this.logger.debug('Getting Horoscope Crontab');
-    return this.configService.getOrThrow<string>('HOROSCOPE_CRONTAB');
+    this.logger.debug('Getting TEST_CRONTAB Crontab');
+    return this.configService.getOrThrow<string>('TEST_CRONTAB');
   }
 }

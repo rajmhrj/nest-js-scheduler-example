@@ -254,7 +254,7 @@ docker-compose ps
 
 ## License
 
-This project is licensed under the UNLICENSED license.
+This project is licensed under the WTFPL (Do What The Fuck You Want To Public License) - see the [LICENSE](LICENSE) file for details.
 
 ## Resources
 
